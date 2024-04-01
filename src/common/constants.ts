@@ -1,0 +1,1 @@
+export const N_VARCHAR_LENGTH = 999999999;

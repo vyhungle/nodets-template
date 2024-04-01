@@ -1,0 +1,14 @@
+{
+    "sqltools.connections": [
+        {
+            "pgOptions": {
+                "ssl": true
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "driver": "PostgreSQL",
+            "connectString": "postgres://xflowersdb_user:NuS9qXXM30HN3EVAgtzM7lYOGuDI96IA@dpg-co4jsg779t8c7393av6g-a.singapore-postgres.render.com/xflowersdb",
+            "name": "xflowers"
+        }
+    ]
+}
